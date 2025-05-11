@@ -34,6 +34,18 @@ With over 5 years of expertise in designing and delivering innovative, user-focu
 
 ---
 
+## 🏗️ Architectures I Use
+
+![Microservices](https://img.shields.io/badge/Microservices-architecture-blue)
+![Event Driven](https://img.shields.io/badge/Event--Driven-Architecture-green)
+![MVC](https://img.shields.io/badge/MVC-Pattern-orange)
+![Serverless](https://img.shields.io/badge/Serverless-AWS_Lambda-yellow)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-purple)
+![Monolithic](https://img.shields.io/badge/Monolithic-Architecture-lightgrey)
+![Multitenant](https://img.shields.io/badge/Multitenant-Design-red)
+
+---
+
 ## 📊 GitHub Stats
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mperorjohn&show_icons=true&theme=radical)
