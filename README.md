@@ -6,9 +6,6 @@ With over 5 years of expertise in designing and delivering innovative, user-focu
 
 ---
 
-## 🚀 Currently Working On
-
-🛠️ **Regtech365** – A compliance automation tool streamlining regulatory processes.
 
 ---
 
